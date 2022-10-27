@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equations_array">
+        <item>Select an equation</item>
+        <item>Equation for the volume of the cuboid</item>
+        <item>Equation for the volume of the cone</item>
+        <item>Equation for volume of cylinder</item>
+        <item>Equation for the volume of the regular tetrahedron</item>
+    </string-array>
+</resources>

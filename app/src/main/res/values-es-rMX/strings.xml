@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de ecuaciones</string>
+    <string name="titleEquationSelector">Selecciona una fórmula</string>
+    <string name="btnCalculate">Calcular</string>
+    <string name="hintVariableTextBox">Escribe el valor de la variable</string>
+    <string name="hintVarA">a: largo de la base</string>
+    <string name="hintVarB">b: ancho de la base</string>
+    <string name="hintVarH">h: altura</string>
+    <string name="hintVarR">R: radio</string>
+    <string name="hintVarTetra">"a: largo de la arista del tetraedro "</string>
+    <string name="noEquationSelected">Ninguna ecuación fue seleccionada</string>
+    <string name="errorEmptySpace">Variable vacía</string>
+    <string name="errorVariableCanNotBeNull">El campo de la variable no puede quedar vacío</string>
+    <string name="resultTitle">El resultado es:</string>
+    <string name="resultVolume">El volumen del %1$s es:</string>
+    <string name="cuboid">ortoedro</string>
+    <string name="cone">cono</string>
+    <string name="cylinder">cilindro</string>
+    <string name="tetra">tetraedro</string>
+</resources>

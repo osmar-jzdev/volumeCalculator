@@ -1,0 +1,28 @@
+<resources>
+    <!--Splash strings -->
+    <string name="app_name">Equations Calculator</string>
+    <string name="version_app" translatable="false">1.0.0</string>
+    <string name="dev_name" translatable="false">By Osmar Jrz</string>
+    <!-- activity_main - cardViewEquationSelector - title text - string  -->
+    <string name="titleEquationSelector">Pick a formula</string>
+    <!-- activity_main - button calculate - string  -->
+    <string name="btnCalculate">Calculate</string>
+    <!-- activity_main - viewCardVariables - strings  -->
+    <string name="hintVariableTextBox">Type the number value</string>
+    <string name="hintVarA">a: base length</string>
+    <string name="hintVarB">b: base width</string>
+    <string name="hintVarH">h: height</string>
+    <string name="hintVarR">R: radius</string>
+    <string name="hintVarTetra">a: edge length of the tetrahedron</string>
+    <!-- MainActivity - strings  -->
+    <string name="noEquationSelected">No equation was selected</string>
+    <string name="errorEmptySpace">Empty variable</string>
+    <string name="errorVariableCanNotBeNull">This variable can not be null</string>
+    <!-- activity_result - strings  -->
+    <string name="resultTitle">The result is:</string>
+    <string name="resultVolume">The %1$s volume is:</string>
+    <string name="cuboid">cuboid</string>
+    <string name="cone">cuboid</string>
+    <string name="cylinder">cylinder</string>
+    <string name="tetra">tetrahedron</string>
+</resources>
